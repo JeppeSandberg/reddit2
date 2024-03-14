@@ -1,0 +1,3 @@
+com\example\SentimentAnalysis$SentimentMapper.class
+com\example\SentimentAnalysis$SentimentReducer.class
+com\example\SentimentAnalysis.class
